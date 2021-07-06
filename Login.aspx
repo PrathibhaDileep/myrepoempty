@@ -125,7 +125,7 @@
                     <tr>
                         <td style="text-align: center" class="auto-style30">
                         &nbsp;&nbsp;&nbsp;
-                            <asp:Button ID="btnlogin" runat="server" style="font-weight: 700; background-color: #336699" Text="LOGIN" Width="98px" Height="26px" OnClick="btnlogin_Click" />
+                            <asp:Button ID="btnlogin" runat="server" style="font-weight: 700; background-color: #336699" Text="LOGIN" Width="98px" Height="26px"  />
                         </td>
                     </tr>
             </table>
